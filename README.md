@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @T69Flick
+- 👋 Hi, I’m Flick
 - 👀 I’m interested in Games and coding discord bots
 - 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on discord bot codes
